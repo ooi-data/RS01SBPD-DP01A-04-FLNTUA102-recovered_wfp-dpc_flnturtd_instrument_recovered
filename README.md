@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS01SBPD-DP01A-04-FLNTUA102-recovered_wfp-dpc_flnturtd_instrument_recovered
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: FL<br>
